@@ -1,0 +1,14 @@
+{
+  "name": "siteno",
+  "version": "1.0.0",
+  "description": "siteNo5",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "author": "Dudnyk",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^4.11.0"
+  }
+}
